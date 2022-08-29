@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# custom
+.idea
+.vscode
+
+# Mac configure file.
+.DS_Store
+
+# Program run create directory.
+results
+samples
+wandb/
+
+data/DIV2K/
+data/Set5/
+data/MRI/ESRGAN_MRI/
+data/MRI_test/
